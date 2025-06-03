@@ -4,3 +4,6 @@
 [submodule "pystructurizr"]
 	path = pystructurizr
 	url = https://github.com/nielsvanspauwen/pystructurizr.git
+[submodule "modinit"]
+	path = modinit
+	url = https://github.com/eddiegulay/modinit.git
