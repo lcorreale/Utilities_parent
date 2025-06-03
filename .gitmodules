@@ -1,3 +1,6 @@
 [submodule "diagrams"]
 	path = diagrams
 	url = https://github.com/lcorreale/Diagrams
+[submodule "pystructurizr"]
+	path = pystructurizr
+	url = https://github.com/nielsvanspauwen/pystructurizr.git
