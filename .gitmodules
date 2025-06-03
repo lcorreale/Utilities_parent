@@ -1,6 +1,6 @@
 [submodule "diagrams"]
 	path = diagrams
-	url = https://github.com/lcorreale/Diagrams
+	url = https://github.com/mingrammer/diagrams.git
 [submodule "pystructurizr"]
 	path = pystructurizr
 	url = https://github.com/nielsvanspauwen/pystructurizr.git
