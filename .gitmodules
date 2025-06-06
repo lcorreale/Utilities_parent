@@ -7,3 +7,6 @@
 [submodule "modinit"]
 	path = modinit
 	url = https://github.com/eddiegulay/modinit.git
+[submodule "ml-pipeline-generator-python"]
+	path = ml-pipeline-generator-python
+	url = https://github.com/GoogleCloudPlatform/ml-pipeline-generator-python.git
